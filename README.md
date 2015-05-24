@@ -5,4 +5,10 @@ integrate Figwheel into an existing application.
 
 Start with
 
-lein figwheel
+`lein figwheel`
+
+You view it with 
+[http://localhost:3449/#0](http://localhost:3449/#0)
+
+To navigate between slides you use 
+'Shift-right-arrow' and Shift-left-arrow'
